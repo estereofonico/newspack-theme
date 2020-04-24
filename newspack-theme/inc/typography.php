@@ -222,7 +222,7 @@ function newspack_custom_typography_css() {
 		.block-editor-block-list__layout .block-editor-block-list__block .wp-block-cover .wp-block-cover-text,
 
 		/* Button Block */
-		.block-editor-block-list__layout .block-editor-block-list__block .wp-block-button .wp-block-button__link,
+		.block-editor-block-list__layout .block-editor-block-list__block .wp-block-button__link,
 
 		/* Blockquote Block */
 		.block-editor-block-list__layout .block-editor-block-list__block .wp-block-quote cite,
